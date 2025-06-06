@@ -1,0 +1,6 @@
+license.txt 14 Jun 2018
+Jeffrey R. Stevens (jeffrey.r.stevens@gmail.com)
+
+All data and code presented here are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0). You may share and adapt this content with attribution, for non-commercial purposes if you ShareAlike (distribute any contributions under the same license).
+
+The manuscript and supplementary materials are copyrighted by the authors (Winke and Stevens). This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original authors are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.

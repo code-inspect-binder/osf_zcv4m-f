@@ -1,0 +1,146 @@
+---
+title: "Supplementary Materials: Is cooperative memory special? The role of costly errors, context, and social network size when remembering cooperative actions"
+author: "Tim Winke and Jeffrey R. Stevens"
+date: \today
+output: pdf_document
+
+---
+  *Citation*: Winke, T. and Stevens, J.R. (2017) Is Cooperative Memory Special? The Role of Costly Errors, Context, and Social Network Size When Remembering Cooperative Actions. Frontiers in Robotics and AI 4, 52. doi: 10.3389/frobt.2017.00052 \
+  
+  *Copyright*: © 2017 Winke and Stevens. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. \
+
+\renewcommand{\thetable}{S\arabic{table}}
+\setcounter{table}{0}
+\renewcommand{\thefigure}{S\arabic{figure}}
+\setcounter{figure}{0}
+
+\newpage 
+
+<!--(Figure S1)-->
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=6.5in]{figures/screenshots.png} 
+ \caption{{\small Screen shots of the cooperative memory task. In the first round of the task (top row), participants observed an image (actual images are replaced with silhouettes here to preserve anonymity of image volunteers) and the name of each partner, along with the current action. After viewing this for each partner, participants were asked for a partner’s previous choice, given feedback on his or her response, and updated on the partner’s new choice before moving on to the next partner (middle and bottom rows). Numbers below screens give presentation times for screens and between screens. Caption and figure reproduced with permission from Stevens et al. (2011).}}
+\end{figure}
+
+<!--(Figure S2)-->
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=6.5in]{figures/partner_action_histogram.png} 
+ \caption{{\small Distribution of partner actions. A histogram of partner actions shows the percentage of partners' positive action (cooperate or read newspaper) during a memory task and the respective number of participants.}}
+\end{figure}
+
+\clearpage
+
+<!--Instructions-->
+# Participant Instructions
+
+Below is a translation from German of the participant instructions for the costly payoff group. The standard payoff group had the standard payoff matrix instead of the costly payoff matrix. Images are replaced with silhouettes here to preserve anonymity of image volunteers.
+
+In this experiment, you will repeatedly interact with a number of hypothetical partners. For each interaction, your partner will choose either to carry out a certain action or to not carry out the action. In one of the two parts of the experiment he will chose to *cooperate* or *not cooperate*, in a second part he will either choose to *read* or *not read*, **Your task is to recall the last action for each partner**.
+
+In this task, we will assess how well you remember whether each partner cooperated or not (read or not) *the last time you encountered him*.
+
+## Procedure:
+
+First you will see each partner and whether he/she cooperates (reads or not). You should try to remember each partner's action. In the example below, Natalie cooperates. 
+
+\begin{center}
+\includegraphics[width=2.5in]{figures/instructions1.png}
+\end{center}
+
+After observing all of the partner actions one after the other, it follows the retrieval of the actions of the individual partners. For this purpose you will meet each partner again but not necessarily in the same order as in the beginning. Each time you will be asked whether the displayed partner cooperated or not (read or not) the last time that you interacted with him/her.
+
+\begin{center}
+\includegraphics[width=2.5in]{figures/instructions2.png}
+\end{center}
+
+Press 'q' for 'cooperate' or 'p' for 'not cooperate'. You will have ten seconds to respond. If you wait longer than ten seconds, the question will be skipped. 
+
+After each response, you will learn whether you were correct. Thereafter you will see what the partner decides to do this time. In the example below, Natalie doesn't cooperate this time. 
+
+\begin{center}
+\includegraphics[width=2.5in]{figures/instructions3.png}
+\end{center}
+
+This is now the action that you should try to keep in mind. **The task always is to recall the last action for the partner**. Then there will follow the retrieval, feedback and new action for the next partner and so on. 
+
+Please respond as accurately as possible.
+
+Additionally to your show-up fee of 5 euros, your payoff will be as following for each trial: 
+
+If you answer Cooperate or Read...
+
+...and you are correct, you receive 0.1 euro
+
+...and you are wrong, you lose -0.05 euro.
+
+
+
+If you answer Not Cooperate or Not Read...
+
+...and you are correct, you receive 0.05 euro
+
+...and you are wrong, you lose 0 euro.
+
+
+
+Thus, your payoff matrix in cents for each trial looks like the following:
+
+|               |                    | Partner response |                    |
+| ------------- | ------------------ | ---------------- | ---------------    |
+|               |                    | cooperates       | does not cooperate |
+| Your response | cooperates         | 10 cents         | 5 cents            |
+|               | does not cooperate | 0 cents          | -5 cents           |
+
+
+## Generally:
+
+For this experiment your partners will be grouped. For each of the two parts in the experiment you will interact with 10 new partner with whom you play for 10 rounds.
+
+You will begin each part with a practice phase in which you can see how the task works without earning money. Before you start with the second part, you can have a short break before you continue. For that, simply wait with pressing the space bar.
+
+When you completed both parts, it would be nice, if you could fill out a short questionnaire. The whole task should last about 1.5 hours. If you have any questions, please ask the experimenter. If you are ready to begin the practice phase, please press space bar on the computer keyboard. 
+
+\newpage
+
+<!--Questionnaire-->
+# Participant Questionnaire
+
+
+Below is a translation from German of the participant questionnaire.
+
+1. Do you know one/some of the depicted persons? If yes, how many? 
+
+2. Did you associate memories of a/some certain person/s with one/some of the used names? If yes, how many? 
+
+3. Of 10 decisions that you made, how often did you guess on average? 
+
+4. Of 10 of your partners' actions, how often did the partners cooperate in your opinion? 
+
+5. Did you pursue a certain strategy for memorizing partner actions? If you did, please describe the strategy you used. 
+
+6. What did you do when you could not remember the action from the previous round? 
+
+7. Please draw a curve of your motivation over the time of the experiment. 
+
+8. Do you have comments or suggestions? 
+
+9. Please estimate, with how many persons you have contact with during one week on average (having a coffee together, via email, at your work place, via chat/SMS, via telephone, etc.)
+
+10. How many friends to you have on facebook or on another social network website?
+
+11. Please fill out the following table! Indicate, how many people of the following categories you know and how frequently you meet them during one month on average?
+
+\begin{table*}[h!] \centering
+\begin{tabular}{@{}p{4.5cm}|p{4cm}|p{4cm}@{}}
+Category & Amount of persons you know in each category & Take one average contact out of each category, how often do you have contact with him/her during one month (in quantities)\\\hline
+Family&&\\\hline
+Close friends&&\\\hline
+Acquaintances&&\\\hline
+Project or working partners&&\\\hline
+Neighbors&&\\\hline
+\lbrack your own category\rbrack ...&&
+\end{tabular}
+\end{table*}
+
